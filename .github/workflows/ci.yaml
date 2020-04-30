@@ -84,7 +84,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Bump SNAPSHOT version
     if: github.ref == 'refs/heads/master'
-    needs: run_cucumber
+#    needs: run_cucumber
+    needs: build
 
     steps:
       - uses: actions/checkout@v2
