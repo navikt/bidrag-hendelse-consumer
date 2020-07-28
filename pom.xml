@@ -10,7 +10,7 @@
 
   <groupId>no.nav.bidrag</groupId>
   <artifactId>bidrag-hendelse-consumer</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
 
   <name>bidrag-hendelse-consumer</name>
   <description>Consumer of events from applications for team-bidrag</description>
